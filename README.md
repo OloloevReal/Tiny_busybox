@@ -2,7 +2,7 @@
 
 A little tiny busybox game with RGB led for baby
 
-
+![](files/Preview.GIF "RGB Busybox")
 
 Using:
 - Attiny13 - 1
@@ -19,4 +19,4 @@ How its working:
 - Auto stop lighting after ~ 40 sec
 
 Scheme:
-![Schematic_BusyCube_2022-06-01](https://user-images.githubusercontent.com/38255298/171397063-8d083e28-2933-463d-9e0a-1f11c28748fc.png)
+![](files/Schematic_Attiny13.png "Scheme Attiny13")
