@@ -1,6 +1,6 @@
-# Tiny Busybox Game
+# Tiny Busycube Game
 
-A little tiny busybox game with RGB led for baby
+A little tiny busycube game with RGB led for baby
 
 ![](files/Preview.GIF "RGB Busybox")
 
